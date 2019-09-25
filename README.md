@@ -35,7 +35,7 @@ Our workers are at least 50% more productive than they would be at a traditional
 2. Some business pay for 40 hour work weeks but deploy "culture" to induce employees to work much more. Ythical places a hard cap on total hourly contribution to avoid this unhealthy dynamic. 
 
 # What if an employee works another job in addition to working at Ythical?
-So long as there is not a conflict of interest with Ythical work, any employee is entitled to do with their free time what they see fit. See the [Ythical](twitter.com/ythical) Twitter bot for some ideas. We encourage our employees to be creative and reach their full potential inside and outside of Ythical work. 
+So long as there is not a conflict of interest with Ythical work, any employee is entitled to do with their free time what they see fit. See the [Ythical](www.twitter.com/ythical) Twitter bot for some ideas. We encourage our employees to be creative and reach their full potential inside and outside of Ythical work. 
 
 # Do Ythical employees get benefits?
 Ythical employees are entitled to benefits. For those employees who have benefits through an external source, they get a health insurance credit equal to the premium of the Ythical benefit package.
