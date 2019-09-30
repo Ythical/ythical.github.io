@@ -1,6 +1,9 @@
-[What can you do with Ythical Powers?](https://www.twitter.com/ythical)
+# Ythical powers remote-first startups where founders and employees work 20 hour weeks. Work-life balance: it's not a myth, it's just the Ythical thing to do.
 
-[See the tweet thread that started it all](https://twitter.com/corbett/status/1153382439294840832)
+- [See the tweet thread from @corbett that started it all](https://twitter.com/corbett/status/1153382439294840832)
+- [What can you do with Ythical Powers?, check out the Twitter bot pitch @ythical](https://www.twitter.com/ythical)
+- [Start tracking your time on your projects with the bot @ythicaltime. Don't work too much on your startup!](https://www.twitter.com/ythical)
+
 
 Why did 40 hours a week become the norm? How much of that time is spent on low-value tasks? Why the constant barrage of email and interruptions that crush deep thinking about important problems? 
 
